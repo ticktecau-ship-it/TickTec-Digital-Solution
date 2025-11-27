@@ -71,8 +71,9 @@ const VideoAreaHomeOne: React.FC = () => {
         data-jarallax=""
         data-speed="0.6"
         style={{
-          backgroundImage: `url(/assets/img/bg-img/11.jpg)`,
-          backgroundAttachment: 'fixed',
+          backgroundImage: `url(/assets/img/bg-img/12.png)`,
+          backgroundAttachment: '',
+          backgroundSize: 'cover',
         }}
       >
         <div className="video-popup">

@@ -15,11 +15,11 @@ const FooterOne = ({ style_2 }: any) => {
               <div className="footer-card">
 
                 <a href="#">
-                  <img className="dark-logo" src="/assets/img/core-img/logo.png" alt="" />
-                  <img className="light-logo" src="/assets/img/core-img/logo-light.png" alt="" />
+                <img className="dark-logo" src="/assets/img/logo/Ticktec Logo-dark.png" alt="" style={{width: '200px'}}/>
+                <img className="light-logo" src="/assets/img/logo/Ticktec Logo-03.png" alt="" style={{width: '200px'}}/>
                 </a>
 
-                <p className="mb-0">Creative design agency specializes in innovative visual solutions</p>
+                <p className="mb-0">Creative agency specializes in innovative visual solutions</p>
 
                 <div className="social-nav">
                   <a href="#">
@@ -60,9 +60,9 @@ const FooterOne = ({ style_2 }: any) => {
                 <h5 className="mb-0">Services</h5>
 
                 <ul className="footer-nav">
-                  <li><a href="#">UI/UX Design</a></li>
-                  <li><a href="#">Mobile Apps Design</a></li>
                   <li><a href="#">Web Development</a></li>
+                  <li><a href="#">Digital Marketing</a></li>
+                  <li><a href="#">SEO</a></li>
                   <li><a href="#">SaaS Design</a></li>
                   <li><a href="#">Webflow Design</a></li>
                 </ul>
@@ -76,10 +76,10 @@ const FooterOne = ({ style_2 }: any) => {
 
                 <ul className="footer-nav">
                   <li><a href="#">About Us</a></li>
-                  <li><a href="#">Portfolio</a></li>
-                  <li><a href="#">Expert Team</a></li>
-                  <li><a href="#">Pricing Plan</a></li>
+                  <li><a href="#">Our Work</a></li>
+                  <li><a href="#"> Contact Us</a></li>
                   <li><a href="#">Blog & News</a></li>
+                  <li><a href="#">Faqs</a></li>
                 </ul>
               </div>
             </div>
@@ -118,7 +118,7 @@ const FooterOne = ({ style_2 }: any) => {
           <div className="row align-items-center">
 
             <div className="col-12 col-lg-6">
-              <p className="mb-0 copyright">Copyright © {new Date().getFullYear()} <span id="year"></span> <a href="#"> theme_ocean </a></p>
+              <p className="mb-0 copyright">Copyright © {new Date().getFullYear()} <span id="year"></span> <a href="/"> TickTec Digital Solutions </a></p>
             </div>
 
             <div className="col-12 col-lg-6">

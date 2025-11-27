@@ -47,57 +47,42 @@ const TestimonialArea = () => {
           
 
                     <SwiperSlide className="swiper-slide">
-                      <p>“He quickly delivered excellent design a per required specifications. New landing page
-                        will
-                        have refreshing simple look, while keeping page load light on images and at the same
-                        keeping
-                        professional look. Finally, it also seems very reasonable to implement responsive design,
-                        so
-                        I'm very happy with that.”</p>
+                      <p>“TickTec turned our messy Google Ads account into a lead machine in just 3 weeks. Traffic costs dropped 38%, enquiries doubled, and the reporting is so clear even I understand it. Couldn’t ask for a better Aussie team.
+                      ”</p>
                       <div className="border-line"></div>
                       <div className="testimonial-info d-flex align-items-center">
                         <img src="/assets/img/bg-img/16.png" alt="" />
                         <div>
-                          <h4>Daniyel Karlos</h4>
-                          <p className="mb-0">UX Designer</p>
+                          <h4>— Sarah M., Sydney Electrical Co</h4>
+                          <p className="mb-0">CEO & Founder</p>
                         </div>
                       </div>
                     </SwiperSlide>
 
 
                     <SwiperSlide className="swiper-slide">
-                      <p>“He quickly delivered excellent design a per required specifications. New landing page
-                        will
-                        have refreshing simple look, while keeping page load light on images and at the same
-                        keeping
-                        professional look. Finally, it also seems very reasonable to implement responsive design,
-                        so
-                        I'm very happy with that.”</p>
+                      <p>“The new website looks stunning, loads lightning fast, and converts like crazy. They nailed our brand vibe from day one, stayed on budget, and actually finished ahead of schedule. Best money we’ve spent this year!
+                        ”</p>
                       <div className="border-line"></div>
                       <div className="testimonial-info d-flex align-items-center">
                         <img src="/assets/img/bg-img/16.png" alt="" />
                         <div>
-                          <h4>Daniyel Karlos</h4>
-                          <p className="mb-0">UX Designer</p>
+                          <h4>— James T., Melbourne Fitness Studio</h4>
+                          <p className="mb-0">Manager</p>
                         </div>
                       </div>
                     </SwiperSlide>
 
 
                     <SwiperSlide className="swiper-slide">
-                      <p>“He quickly delivered excellent design a per required specifications. New landing page
-                        will
-                        have refreshing simple look, while keeping page load light on images and at the same
-                        keeping
-                        professional look. Finally, it also seems very reasonable to implement responsive design,
-                        so
-                        I'm very happy with that.”</p>
+                      <p>“Working with TickTec has been a game-changer. Our social campaigns are now bringing in qualified leads every single day, and the team is super responsive. Finally feels like we’ve got real partners in our corner.
+                        ”</p>
                       <div className="border-line"></div>
                       <div className="testimonial-info d-flex align-items-center">
                         <img src="/assets/img/bg-img/16.png" alt="" />
                         <div>
-                          <h4>Daniyel Karlos</h4>
-                          <p className="mb-0">UX Designer</p>
+                          <h4>— Rachel K., Brisbane Skin Clinic</h4>
+                          <p className="mb-0">Owner</p>
                         </div>
                       </div>
                     </SwiperSlide>
@@ -131,7 +116,7 @@ const TestimonialArea = () => {
         </div>
 
 
-        <div className="contact-wrapper" style={{ backgroundImage: 'url(/assets/img/bg-img/12.jpg)' }}>
+        <div className="contact-wrapper" style={{ backgroundImage: 'url(/assets/img/bg-img/bg.jpg)' }}>
           <div className="contact-form">
             <h3 className="mb-4">Get in Touch</h3>
 

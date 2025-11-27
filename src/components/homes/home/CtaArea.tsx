@@ -5,7 +5,7 @@ const CtaArea = () => {
   return (
     <>
       <div className="cta-wrap jarallax" data-jarallax="" data-speed="0.6"
-        style={{ backgroundImage: "url(/assets/img/bg-img/1.jpg)", backgroundAttachment: "fixed" }}>
+        style={{ backgroundImage: "url(/assets/img/bg-img/47.jpg)", backgroundAttachment: "fixed" }}>
         <div className="divider"></div>
 
         <div className="container">
@@ -21,10 +21,10 @@ const CtaArea = () => {
 
 
                   <div className="clients-images">
-                    <img src="/assets/img/bg-img/5.jpg" alt="" />
-                    <img src="/assets/img/bg-img/4.jpg" alt="" />
-                    <img src="/assets/img/bg-img/3.jpg" alt="" />
-                    <img src="/assets/img/bg-img/2.jpg" alt="" />
+                    <img src="/assets/img/profile-img/5.png" alt="" />
+                    <img src="/assets/img/profile-img/6.png" alt="" />
+                    <img src="/assets/img/profile-img/7.png" alt="" />
+                    <img src="/assets/img/profile-img/8.png" alt="" />
                   </div>
                 </div>
 

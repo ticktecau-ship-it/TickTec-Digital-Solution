@@ -24,7 +24,6 @@ const HomeOne = () => {
       <ProjectsArea />
       <WorkprocessArea />
       <VideoAreaHomeOne />
-      <AwardsArea />
       <TestimonialArea />
       <BlogArea />
       <Cta2Area />

@@ -3,8 +3,8 @@ const menu_data = [
   {
     id: 1,
     title: "Home",
-    link: "#",
-    has_dropdown: true,
+    link: "/",
+    has_dropdown: false,
     sub_menus: [
       { link: "/", title: "Home 01", },
       { link: "/home-2", title: "Home 02", },
@@ -12,9 +12,9 @@ const menu_data = [
   },
   {
     id: 2,
-    title: "Pages",
-    link: "#",
-    has_dropdown: true,
+    title: "About",
+    link: "/about-us",
+    has_dropdown: false,
     sub_menus: [
       {
         link: "/about-us",
@@ -70,7 +70,17 @@ const menu_data = [
   },
   {
     id: 3,
-    title: "Portfolio",
+    title: "Our Work",
+    link: "#",
+    has_dropdown: false,
+    sub_menus: [
+      { link: "/portfolio", title: "Portfolio", }, 
+      { link: "/portfolio-details", title: "Portfolio Details", }, 
+    ]
+  },
+  {
+    id: 4,
+    title: "Services",
     link: "#",
     has_dropdown: true,
     sub_menus: [
@@ -79,10 +89,10 @@ const menu_data = [
     ]
   },
   {
-    id: 4,
-    title: "Blog",
+    id: 5,
+    title: "Contact",
     link: "#",
-    has_dropdown: true,
+    has_dropdown: false,
     sub_menus: [
       { link: "/blog", title: "Blog", }, 
       { link: "/blog-details", title: "Blog Details", }, 
